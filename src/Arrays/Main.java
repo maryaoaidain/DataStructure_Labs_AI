@@ -6,6 +6,7 @@ public class Main {
         int []number2=new int[5];
         arr.input(number2);
         arr.Traversal(number);
+        arr.Traversal2(number);
         arr.ReverseTraversal(number);
         arr.Traversal(number2);
         //System.out.println(Arrays.toString(number))
