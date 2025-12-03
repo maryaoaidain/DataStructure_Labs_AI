@@ -17,6 +17,7 @@ public class Main {
         arr.Traversal(number2);
         arr.update(number,2,7);
         arr.delete(number, 1);
+        arr.deleteFirst(number);
 
         arr.LinearSearch(number, 1);
 
