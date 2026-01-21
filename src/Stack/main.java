@@ -5,7 +5,6 @@ public class main {
 
     public static void main(String[] args) {
         LinkedStack<Integer> lStack = new LinkedStack<Integer>();
-        ArrayStack<Integer>
         lStack.push(10);
         lStack.push(20);
         lStack.push(30);
